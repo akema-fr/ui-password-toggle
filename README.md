@@ -4,9 +4,13 @@ Widget to simplify forms by using a single input for password with visibility to
 
 ## Preview
 
-![password-toggler-off](password-toggler-off.png "password toggler off")
-![password-toggler-focus](password-toggler-focus.png "password toggler focus")
-![password-toggler-on](password-toggler-on.png "password toggler on")
+![preview/password-toggle-off.png](preview/password-toggle-off.png "password toggle off")
+![preview/password-toggle-focus.png](preview/password-toggle-focus.png "password toggle focus")
+![preview/password-toggle-on.png](preview/password-toggle-on.png "password toggle on")
+
+## Requirements
+
+* (optional) [Bootstrap](http://getbootstrap.com/) `≥3` ;
 
 ## Usage
 
